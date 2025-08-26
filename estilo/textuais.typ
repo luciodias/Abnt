@@ -1,16 +1,16 @@
-#import "/metadados.typ": metadados, estilo
+#import "metadados.typ": metadados, estilo
 
 #let textuais(doc) = {
 set page(
     paper: estilo.folha,
-    margin: (inside: estilo.margens.interna, top: estilo.margens.superior, outside: estilo.margens.externa, bottom: estilo.margens.inferior),
+    margin: (right: estilo.margens.direita, top: estilo.margens.superior, left: estilo.margens.esquerda, bottom: estilo.margens.inferior),
     //header-ascent: 0cm,
     //footer-descent: 0cm,
     header: context align(right, text(size:10pt)[#counter(page).display()])
   )
 set text(
-    font:"Arial",
-    size: 12pt,
+    font: estilo.fonte,
+    size: estilo.size,
     lang: "pt",
     region: "BR",
  )
@@ -20,8 +20,8 @@ show heading: set align(left)
 show heading: set block(spacing: 1.5em)
 show heading: set text(
   weight: "regular",
-  font:"Arial",
-  size:12pt,
+  font: estilo.fonte,
+  size: estilo.size,
 )
 show heading: set par(
   leading: 1.5em,
@@ -35,7 +35,10 @@ show heading.where(level: 3): set text(weight: "bold")
 show heading.where(level: 5): set text(style: "italic")
 
 set par(
-  leading: 1.5em,
+  // leading: 4.6mm, // 1.5 * 14.4pt (tamanho padrão)
+  // spacing: 4.6mm, // 1.5 * 14.4pt (tamanho padrão)
+  leading: 1em, // 1.5 * 14.4pt (tamanho padrão)
+  spacing: 1em, // 1.5 * 14.4pt (tamanho padrão)
   justify: true,
   hanging-indent: 0em,
   first-line-indent: (

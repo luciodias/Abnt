@@ -1,2 +1,3 @@
 #include("partes/capa.typ")
-#include("partes/cap1.typ")
+#counter(page).update(1) 
+#include("trabalho/cap1.typ")

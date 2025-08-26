@@ -4,13 +4,19 @@
 // formato da página
 #set page(
     paper: estilo.folha,
-    margin: (inside: estilo.margens.interna, top: estilo.margens.superior, outside: estilo.margens.externa, bottom: estilo.margens.inferior),
+    margin: (right: estilo.margens.direita, top: estilo.margens.superior, left: estilo.margens.esquerda, bottom: estilo.margens.inferior),
     header-ascent: 0cm,
     footer-descent: 0cm,
   )
 #set text(
-    font:"Arial",
-    size: 12pt,
+    font: estilo.fonte,
+    size: estilo.size,
+ )
+
+ #set par(
+    leading: 1.5em,
+    justify: true,
+    hanging-indent: 0em,
  )
 
 #grid(
