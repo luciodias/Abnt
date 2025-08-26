@@ -1,4 +1,4 @@
-#import "../metadados.typ": metadados, estilo
+#import "../estilo/metadados.typ": metadados, estilo
 
 // Formatação da capa do trabalho acadêmico
 // formato da página
