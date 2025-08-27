@@ -1,4 +1,4 @@
-#import "../estilo/textuais.typ" : textuais, centro
+#import "../estilo/textuais.typ" : textuais, centro, direta_longa
 #show: textuais
 
 = INTRODUÇÃO
@@ -8,6 +8,7 @@ Este trabalho apresentará os conceitos relacionados à Central de Serviços (Se
 Para essa finalidade, o trabalho fará uma breve revisão conceitual em artigos publicados em revistas acadêmicas nos últimos 5 anos. 
 
 Ao final, o trabalho apresentará a conclusão acerca da aplicação dos principais conceitos do tema na rotina da gestão de serviços de TI.
+
 
 = DESENVOLVIMENTO
 
@@ -19,7 +20,7 @@ Segundo Melendez Fo (2011), “as instituições e empresas líderes entendem qu
 
 A dependência que as organizações apresentam acerca dos recursos tecnológicos pode levar a um elevado risco nas suas operações. Ainda segundo o autor, 
 
-A TIC está hoje em todas as atividades empresariais, governamentais e não governamentais, facilitando as ações operacionais, gerenciais e estratégicas. Para constatar essa realidade, basta verificar quanto tempo, papel, deslocamentos de carro e de avião você economiza usando a tecnologia a seu favor. Uma quantidade fabulosa de operações financeiras é executada por minuto entre computadores e redes que interligam bancos, estabelecimentos comerciais e administradoras de cartão de crédito/débito. (Melendez, 2011 p.25)
+#direta_longa([A TIC está hoje em todas as atividades empresariais, governamentais e não governamentais, facilitando as ações operacionais, gerenciais e estratégicas. Para constatar essa realidade, basta verificar quanto tempo, papel, deslocamentos de carro e de avião você economiza usando a tecnologia a seu favor. Uma quantidade fabulosa de operações financeiras é executada por minuto entre computadores e redes que interligam bancos, estabelecimentos comerciais e administradoras de cartão de crédito/débito. (Melendez, 2011 p.25)])
 
 No contexto do gerenciamento de serviços de TI, o Service Desk, ou Central de Serviços, apresenta-se como uma função essencial segundo o ITIL (Information Technology Infrastructure Library). Para Farias (2018), trata-se de uma evolução do Help Desk. A grande diferença, segundo o autor, é a possibilidade de atuação proativa da Central de Serviços, o que não era possível no conceito anterior. 
 

@@ -35,10 +35,10 @@ show heading.where(level: 3): set text(weight: "bold")
 show heading.where(level: 5): set text(style: "italic")
 
 set par(
-  // leading: 4.6mm, // 1.5 * 14.4pt (tamanho padrão)
-  // spacing: 4.6mm, // 1.5 * 14.4pt (tamanho padrão)
-  leading: 1em, // 1.5 * 14.4pt (tamanho padrão)
-  spacing: 1em, // 1.5 * 14.4pt (tamanho padrão)
+  // leading: 12.6pt, // 1.5 * 14.4pt (tamanho padrão)
+  // spacing: 12.6pt, // 1.5 * 14.4pt (tamanho padrão)
+  leading: 1.145em, // 1.5 * 14.4pt (tamanho padrão)
+  spacing: 1.145em, // 1.5 * 14.4pt (tamanho padrão)
   justify: true,
   hanging-indent: 0em,
   first-line-indent: (
@@ -51,3 +51,20 @@ doc
 }
 
 #let centro(text) = align(center, rect(fill: red,text))
+
+#let direta_longa(valor) = {
+// Alterações nas formatações de Paragrafo
+  set par(
+  leading: 0.75em,
+  spacing: 0.75em,
+  hanging-indent: 4cm,
+  first-line-indent: (
+    amount: 4cm,
+    all: true,
+   ),
+  )
+// Alterações nas formatações de Fonte
+  set text(size:10pt)
+// Retorno
+  valor
+}
