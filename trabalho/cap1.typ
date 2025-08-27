@@ -25,6 +25,6 @@ No contexto do gerenciamento de serviços de TI, o Service Desk, ou Central de S
 
 == RELEVÂNCIA
 
-O bom gerenciamento da Central de Serviços garante a construção de uma base de conhecimentos relevante para a operação dos serviços de TI. Davenport e Prusak (1998 apud Silva, 2018 p. 150) afirmam que o conhecimento é comporto por diversas fontes de informação, fluída, conectada e aplicada a diversas situações de vivências de uma organização. 
+O bom gerenciamento da Central de Serviços garante a construção de uma base de conhecimentos relevante para a operação dos serviços de TI. Davenport e Prusak (1998 apud Silva, 2018 p. 150) @felisberto_bim_2021 afirmam que o conhecimento é comporto por diversas fontes de informação, fluída, conectada e aplicada a diversas situações de vivências de uma organização. 
 
 
