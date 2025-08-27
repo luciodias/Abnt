@@ -1,4 +1,4 @@
-#import "../estilo/textuais.typ" : textuais, centro, direta_longa
+#import "../estilo/textuais.typ" : textuais, centro, direta_longa, curta
 #show: textuais
 
 = INTRODUÇÃO
@@ -24,8 +24,10 @@ A dependência que as organizações apresentam acerca dos recursos tecnológico
 
 No contexto do gerenciamento de serviços de TI, o Service Desk, ou Central de Serviços, apresenta-se como uma função essencial segundo o ITIL (Information Technology Infrastructure Library). Para Farias (2018), trata-se de uma evolução do Help Desk. A grande diferença, segundo o autor, é a possibilidade de atuação proativa da Central de Serviços, o que não era possível no conceito anterior. 
 
+Para #curta(<felisberto_bim_2021>,pg:100) o valor
+
 == RELEVÂNCIA
 
-O bom gerenciamento da Central de Serviços garante a construção de uma base de conhecimentos relevante para a operação dos serviços de TI. Davenport e Prusak (1998 apud Silva, 2018 p. 150) @felisberto_bim_2021 afirmam que o conhecimento é comporto por diversas fontes de informação, fluída, conectada e aplicada a diversas situações de vivências de uma organização. 
+O bom gerenciamento da Central de Serviços garante a construção de uma base de conhecimentos relevante para a operação dos serviços de TI. Davenport e Prusak (1998 apud Silva, 2018 p. 150)  afirmam que o conhecimento é comporto por diversas fontes de informação, fluída, conectada e aplicada a diversas situações de vivências de uma organização. 
 
 

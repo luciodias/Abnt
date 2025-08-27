@@ -68,3 +68,12 @@ doc
 // Retorno
   valor
 }
+
+// #let curta(label, pg: 0) = {
+//   if pg <= 0 [#cite(label,form: "author") (#cite(label,form: "year"))]
+//   else  {
+//     [#cite(label,form: "author") (#cite(label,form: "year"), p.#pg)]
+//   }
+//   }
+
+  #let curta(label, pg: 0) = [#cite(label,form: "author") (#cite(label,form: "year")#if pg > 0 [, p.#pg])]
