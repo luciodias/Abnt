@@ -5,4 +5,4 @@
   //spacing: 0.5em, // 1.5 * 14.4pt (tamanho padrão)
   leading: 0.75em, // 1.5 * 14.4pt (tamanho padrão)
 )
-#bibliography("refs.bib", title: "REFERÊNCIAS", style: "/estilo/abnt.csl")
+#bibliography("/1_trabalho/refs.bib", title: "REFERÊNCIAS", style: "/estilo/abnt.csl")

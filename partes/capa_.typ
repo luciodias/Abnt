@@ -7,10 +7,11 @@
   #show: doc => setEstilo(config, doc)
   
   #grid(
+    columns: 1fr,
     rows: 1fr,
     //fill:red,
     align:center,
-    gutter: 15pt,
+    //gutter: 15pt,
     [
       #upper(capa.centro)\
       #capa.faculdade\

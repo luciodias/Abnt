@@ -1,16 +1,11 @@
-#import "/estilo/textuais.typ" : textuais, centro, direta_longa, curta
-#show: textuais
-
-#yaml("config.yml").capa.centro
-
 = INTRODUÇÃO
 
-A forma como a sociedade se organiza e constrói seus saberes tem sido historicamente influenciada por diferentes tipos de conhecimento. O conhecimento científico, com seu rigor e método, o saber religioso, pautado na fé e na tradição, e o senso comum, fruto das experiências cotidianas, são frequentemente vistos como campos antagônicos, em uma disputa pela primazia da "verdade". No entanto, a análise de textos que se debruçam sobre essa questão revela uma dinâmica muito mais complexa e inter-relacionada, onde a relação pode ser de profunda complementaridade, de coexistência ou de conflito, a depender da perspectiva adotada.
+A forma como a sociedade se organiza e constrói seus saberes tem sido historicamente influenciada por diferentes tipos de conhecimento. O conhecimento científico, com seu rigor e método, o saber religioso, pautado na fé e na tradição, e o senso comum, fruto das experiências cotidianas, são frequentemente vistos como campos antagônicos, em uma disputa pela primazia da "verdade". O presente trabalho pretende realizar uma revisão bibliográfica das perspectivas abordadas no tratamento desta relação.
 
 
 = DESENVOLVIMENTO
 
-Este trabalho se propõe a elaborar uma resenha crítica a partir da análise dos textos de Boaventura de Sousa Santos (2004), Felipe Damasio e Luiz Peduzzi (2015) e Maria Lúcia Grillo Perez Baptista (2015). O objetivo é investigar se a relação entre os conhecimentos científico, religioso e do senso comum é de complementariedade ou de antítese, argumentando que a verdadeira compreensão da realidade exige uma visão que integre as virtudes de cada um desses saberes, ao invés de opô-los. Enquanto o texto de Santos aborda a necessária aproximação entre ciência e senso comum, a obra de Damasio e Peduzzi alerta para o perigo de a ciência se tornar uma nova religião, e o texto de Baptista destaca, com base no pensamento de Einstein, a complementaridade entre a ciência e a fé.
+Este trabalho se propõe a elaborar uma resenha crítica a partir da análise dos textos secionados com objetivo de investigar se a relação entre os conhecimentos científico, religioso e do senso comum é de complementariedade ou de antítese, argumentando que a verdadeira compreensão da realidade exige uma visão que integre as virtudes de cada um desses saberes, ao invés de opô-los.
 
 == A Reabilitação do Senso Comum pela Ciência Pós-Moderna
 

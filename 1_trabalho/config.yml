@@ -18,12 +18,14 @@ estilo:
   margens:
     superior: 3cm
     inferior: 2cm
-    esquerda: 3cm
     direita: 2cm
-  fonte: Arial
+    esquerda: 3cm
+  fonte: 
+    - Arial
+    - Ubutu
   tamanho: 12pt
   paragrafo:
-    recuo: 1.25cm
+    recuo: 1cm
     espacamento:
       entrelinhas: 1.5
       antes: 0pt
