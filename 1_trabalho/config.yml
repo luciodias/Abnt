@@ -1,0 +1,33 @@
+capa:
+  centro: CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA
+  faculdade: Faculdade de Tecnologia da Baixada Santista Rubens Lara
+  curso: Curso Superior de Tecnologia em Análise de Desenvolvimento de Sistemas
+  titulo: Relações entre os tipos de conhecimento
+  subtitulo: "- uma resenha crítica"
+  autor: 
+    titulacao:
+    nome: Lúcio
+    sobrenome_meio: Dias da
+    sobrenome: Silva
+  cidade: Santos - SP
+  data: Agosto/2025
+
+estilo:
+  abnt: /estilo/abnt.csl
+  folha: a4
+  margens:
+    superior: 3cm
+    inferior: 2cm
+    esquerda: 3cm
+    direita: 2cm
+  fonte: Arial
+  tamanho: 12pt
+  paragrafo:
+    recuo: 1.25cm
+    espacamento:
+      entrelinhas: 1.5
+      antes: 0pt
+      depois: 0pt
+  alinhamento: justify
+  linguagem: pt
+  pais: br

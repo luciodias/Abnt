@@ -1,0 +1,45 @@
+#import "/estilo/textuais.typ" : textuais, centro, direta_longa, curta
+#show: textuais
+
+#yaml("config.yml").capa.centro
+
+= INTRODUÇÃO
+
+A forma como a sociedade se organiza e constrói seus saberes tem sido historicamente influenciada por diferentes tipos de conhecimento. O conhecimento científico, com seu rigor e método, o saber religioso, pautado na fé e na tradição, e o senso comum, fruto das experiências cotidianas, são frequentemente vistos como campos antagônicos, em uma disputa pela primazia da "verdade". No entanto, a análise de textos que se debruçam sobre essa questão revela uma dinâmica muito mais complexa e inter-relacionada, onde a relação pode ser de profunda complementaridade, de coexistência ou de conflito, a depender da perspectiva adotada.
+
+
+= DESENVOLVIMENTO
+
+Este trabalho se propõe a elaborar uma resenha crítica a partir da análise dos textos de Boaventura de Sousa Santos (2004), Felipe Damasio e Luiz Peduzzi (2015) e Maria Lúcia Grillo Perez Baptista (2015). O objetivo é investigar se a relação entre os conhecimentos científico, religioso e do senso comum é de complementariedade ou de antítese, argumentando que a verdadeira compreensão da realidade exige uma visão que integre as virtudes de cada um desses saberes, ao invés de opô-los. Enquanto o texto de Santos aborda a necessária aproximação entre ciência e senso comum, a obra de Damasio e Peduzzi alerta para o perigo de a ciência se tornar uma nova religião, e o texto de Baptista destaca, com base no pensamento de Einstein, a complementaridade entre a ciência e a fé.
+
+== A Reabilitação do Senso Comum pela Ciência Pós-Moderna
+
+A relação entre o conhecimento científico e o senso comum sempre foi marcada por uma profunda ruptura. O texto de @santos_2004 Santos (2004) ressalta que a ciência moderna se construiu em oposição direta ao senso comum, considerando-o superficial, ilusório e falso. Essa ruptura epistemológica foi o alicerce para a emergência do método científico, que buscava um conhecimento objetivo e universal, distante da subjetividade e da prática cotidiana.
+
+No entanto, o autor propõe uma nova perspectiva, que ele chama de "ciência pós-moderna", na qual essa ruptura é invertida. Para ele, o salto qualitativo mais importante não é mais do senso comum para o conhecimento científico, mas sim o que é dado do conhecimento científico para o conhecimento do senso comum. Essa “sensocomunização” da ciência é vista como a chave para uma ciência mais transparente e acessível.
+
+O conhecimento científico pós-moderno só se realiza enquanto tal na medida em que se converte em senso comum. Só assim será uma ciência clara que cumpre a sentença de Wittgenstein, “tudo o que se deixa dizer deixa-se dizer claramente”. Só assim será uma ciência transparente que faz justiça ao desejo de Nietsche ao dizer que “todo o comércio entre os homens visa que cada um possa ler na alma do outro, e a língua comum é a expressão sonora dessa alma comum”. (SANTOS, 2004, p. 88-92) @santos_2004
+
+Essa reabilitação do senso comum não significa, para Santos, um retrocesso, mas sim um avanço. Ao dialogar com o senso comum, o conhecimento científico pode ser enriquecido e, por sua vez, a dimensão utópica e libertadora do senso comum pode ser ampliada. Em outras palavras, a ciência pós-moderna, ao se aproximar do conhecimento prático e cotidiano, não apenas torna-se mais relevante para a vida das pessoas, mas também se desvencilha de sua característica de "ignorante especializado" para um saber que contribui para a sabedoria de vida. Essa visão estabelece uma relação de complementaridade onde o método científico e a experiência humana se integram em um único e enriquecedor sistema de conhecimento.
+
+== Ciência, Religião e o Perigo do Cientismo
+
+A relação entre ciência e religião é o ponto de maior tensão nos textos analisados. O artigo de @damasio_peduzzi_2015 Damasio e Peduzzi (2015) discute essa relação a partir da crítica ao que eles chamam de "cientismo", uma crença dogmática na superioridade da ciência como único meio válido de conhecimento. Essa visão, que eles associam ao racionalismo, transforma a ciência em uma espécie de nova religião, com seu próprio conjunto de rituais, dogmas e sacerdotes. A crítica de Paul Feyerabend, citada pelos autores, é a espinha dorsal dessa argumentação: ele aponta que a tentativa de impor uma única estrutura ou regra à ciência é uma forma de dogmatismo que se assemelha à retórica teológica.
+
+Ao defender a universalidade da racionalidade, os cientistas racionalistas insistem em ver a razão como uma entidade implacável e ordenada, "uma forma secularizada da crença no poder da palavra de Deus" @damasio_peduzzi_2015 (DAMASIO; PEDUZZI, 2015, p. 54). Esse pensamento dogmático não apenas se afasta da história plural e multifacetada da própria ciência, como também limita a possibilidade de sua evolução, ao impor regras que, segundo Feyerabend, poderiam até mesmo ter impedido grandes descobertas. A crítica principal é que, ao se tornar uma ideologia, a ciência abandona sua natureza de investigação aberta para se converter em uma doutrina que nega a validade de outras formas de conhecimento. Nesse sentido, a relação entre ciência e religião é de antítese, mas não entre a ciência em sua essência e a religião, e sim entre o "cientismo" e a fé.
+
+== Complementaridade à Luz do Pensamento de Einstein
+
+Em contrapartida à visão de que a ciência, quando dogmática, se torna uma nova religião, o texto de @baptista_2015 Baptista (2015) apresenta a perspectiva de Albert Einstein, para quem a relação entre ciência e religião não era de antítese, mas de profunda complementaridade. Einstein, um dos maiores nomes da história da ciência, via nos dois campos um caminho para a busca da verdade, cada um com um foco distinto. Como o próprio título do texto indica, a citação “A ciência sem a religião é manca, a religião sem a ciência é cega” resume essa filosofia.
+
+Para Einstein, a ciência é o instrumento que nos permite desvendar a ordem e a estrutura do universo, enquanto a religião fornece o arcabouço moral e a compreensão do propósito da existência humana. A autora destaca que, para ele, as mais refinadas especulações no campo científico provinham de um profundo sentimento religioso, e que ele não via sua religiosidade como um obstáculo, mas como um motor para o seu trabalho.
+
+O texto de @baptista_2015 Baptista (2015) argumenta que, tanto a fé quanto a razão, buscam a verdade sobre o homem e o mundo, mas o fazem com focos distintos. A fé, por meio da teologia e da filosofia, e a razão, por meio da ciência. Portanto, para se ter uma compreensão completa da realidade, seria necessário o conhecimento de ambas as áreas. Essa visão de Einstein e a análise histórica apresentada no artigo mostram que muitos cientistas de renome, como Newton, também viam a ordem do universo como uma revelação de um ser inteligente e poderoso. Assim, a relação entre esses saberes, ao invés de ser um confronto, é uma parceria na qual a razão e a fé, juntas, podem oferecer uma visão mais completa e profunda da realidade.
+
+= CONCLUSÃO
+
+A análise dos três textos revela que a relação entre os saberes científico, religioso e do senso comum é multifacetada e complexa, não podendo ser reduzida a uma simples dicotomia de antagonismo ou complementaridade. O texto de @boaventura Boaventura de Sousa Santos demonstra que, historicamente, a ciência se distanciou do senso comum, mas que a ciência pós-moderna caminha em direção à sua reabilitação, buscando uma integração que a torne mais clara e relevante para a vida cotidiana. Essa aproximação derruba o muro epistemológico e abre a possibilidade de um diálogo frutífero entre a pesquisa acadêmica e a sabedoria popular.
+
+O debate entre ciência e religião, por sua vez, é abordado de formas contrastantes nos textos de @damasio_peduzzi_2015 Damasio e Peduzzi e de @baptista_2015 Baptista. Enquanto o primeiro adverte sobre o perigo do "cientismo" — a transformação da ciência em uma ideologia dogmática que se assemelha à religião e, portanto, entra em conflito com a fé — o segundo nos convida a refletir sobre o pensamento de Einstein, para quem a ciência e a religião eram mutuamente dependentes. A antítese, nesse caso, não está na natureza dos saberes em si, mas na forma como eles são compreendidos e praticados. Um racionalismo inflexível e um fanatismo religioso, ambos dogmáticos, são, de fato, opostos. No entanto, uma ciência aberta e uma religiosidade que busca o entendimento são, como sugeriu Einstein, complementares na busca por uma compreensão integral da existência.
+
+Em suma, a existência de uma relação ou não entre os tipos de conhecimento depende da perspectiva. Eles podem ser antagônicos quando um se torna dogmático, fechado à crítica e à interação com o outro, seja o "cientismo" que se opõe à fé, seja a ciência moderna que rejeita o senso comum. No entanto, a verdadeira riqueza reside na complementaridade, onde o rigor científico, a profundidade moral da religião e a praticidade do senso comum se unem para oferecer uma visão mais completa, justa e significativa do mundo em que vivemos.

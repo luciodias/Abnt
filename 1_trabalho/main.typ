@@ -1,0 +1,5 @@
+#include("/partes/capa.typ")
+#counter(page).update(1) 
+#include("/estilo/sumario.typ")
+#include("cap1.typ")
+#include("referencia.typ")
