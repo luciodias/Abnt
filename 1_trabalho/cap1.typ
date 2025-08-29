@@ -1,3 +1,5 @@
+#import "/estilo/estilo.typ": curta
+
 = INTRODUÇÃO
 
 A forma como a sociedade se organiza e constrói seus saberes tem sido historicamente influenciada por diferentes tipos de conhecimento. O conhecimento científico, com seu rigor e método, o saber religioso, pautado na fé e na tradição, e o senso comum, fruto das experiências cotidianas, são frequentemente vistos como campos antagônicos, em uma disputa pela primazia da "verdade". O presente trabalho pretende realizar uma revisão bibliográfica das perspectivas abordadas no tratamento desta relação.
@@ -9,11 +11,11 @@ Este trabalho se propõe a elaborar uma resenha crítica a partir da análise do
 
 == A Reabilitação do Senso Comum pela Ciência Pós-Moderna
 
-A relação entre o conhecimento científico e o senso comum sempre foi marcada por uma profunda ruptura. O texto de @santos_2004 Santos (2004) ressalta que a ciência moderna se construiu em oposição direta ao senso comum, considerando-o superficial, ilusório e falso. Essa ruptura epistemológica foi o alicerce para a emergência do método científico, que buscava um conhecimento objetivo e universal, distante da subjetividade e da prática cotidiana.
+A relação entre o conhecimento científico e o senso comum sempre foi marcada por uma profunda ruptura. O texto de #curta(<santos_2004>) ressalta que a ciência moderna se construiu em oposição direta ao senso comum, considerando-o superficial, ilusório e falso. Essa ruptura epistemológica foi o alicerce para a emergência do método científico, que buscava um conhecimento objetivo e universal, distante da subjetividade e da prática cotidiana.
 
 No entanto, o autor propõe uma nova perspectiva, que ele chama de "ciência pós-moderna", na qual essa ruptura é invertida. Para ele, o salto qualitativo mais importante não é mais do senso comum para o conhecimento científico, mas sim o que é dado do conhecimento científico para o conhecimento do senso comum. Essa “sensocomunização” da ciência é vista como a chave para uma ciência mais transparente e acessível.
 
-O conhecimento científico pós-moderno só se realiza enquanto tal na medida em que se converte em senso comum. Só assim será uma ciência clara que cumpre a sentença de Wittgenstein, “tudo o que se deixa dizer deixa-se dizer claramente”. Só assim será uma ciência transparente que faz justiça ao desejo de Nietsche ao dizer que “todo o comércio entre os homens visa que cada um possa ler na alma do outro, e a língua comum é a expressão sonora dessa alma comum”. (SANTOS, 2004, p. 88-92) @santos_2004
+O conhecimento científico pós-moderno só se realiza enquanto tal na medida em que se converte em senso comum. Só assim será uma ciência clara que cumpre a sentença de Wittgenstein, “tudo o que se deixa dizer deixa-se dizer claramente”. Só assim será uma ciência transparente que faz justiça ao desejo de Nietsche ao dizer que “todo o comércio entre os homens visa que cada um possa ler na alma do outro, e a língua comum é a expressão sonora dessa alma comum”. (SANTOS, 2004, p. 88-92) #curta(<santos_2004>, pg: "88-92")
 
 Essa reabilitação do senso comum não significa, para Santos, um retrocesso, mas sim um avanço. Ao dialogar com o senso comum, o conhecimento científico pode ser enriquecido e, por sua vez, a dimensão utópica e libertadora do senso comum pode ser ampliada. Em outras palavras, a ciência pós-moderna, ao se aproximar do conhecimento prático e cotidiano, não apenas torna-se mais relevante para a vida das pessoas, mas também se desvencilha de sua característica de "ignorante especializado" para um saber que contribui para a sabedoria de vida. Essa visão estabelece uma relação de complementaridade onde o método científico e a experiência humana se integram em um único e enriquecedor sistema de conhecimento.
 

@@ -1,3 +1,18 @@
+// Alterações nas formatações de Paragrafo
+#let curta(label, pg: "") = [#cite(label,form: "author") (#cite(label,form: "year")#if pg != "" [, p. #pg])]
+
+#let ct(valor, tipo: "direta") = {
+  set par(
+  leading: 0.75em,
+  spacing: 0.75em,
+  hanging-indent: 4cm,
+  first-line-indent: (
+    amount: 4cm,
+    all: true,
+   ),
+  )
+}
+
 // Configuração da página
 #let setPage(config, doc) = {
   let estilo = yaml(config).estilo
@@ -26,7 +41,7 @@
 
   )
   set par(
-    leading: 1em,
+    leading: eval(estilo.paragrafo.espaçamento.entrelinhas), 
     justify: true,
     hanging-indent: 0em,
   )
@@ -41,10 +56,10 @@
     size: eval(estilo.tamanho),
   )
   show heading: set par(
-    leading: 1.5em,
+    leading: eval(estilo.paragrafo.espaçamento.entrelinhas),
     justify: false,
   )
-  show heading: set block(spacing: 3em)
+  show heading: set block(spacing: eval(estilo.paragrafo.espaçamento.entrelinhas) * 2)
   show heading.where(level: 1): set text(weight: "bold")
   show heading.where(level: 1): upper
   show heading.where(level: 2): upper
@@ -52,14 +67,12 @@
   show heading.where(level: 5): set text(style: "italic")
 
   set par(
-    // leading: 12.6pt, // 1.5 * 14.4pt (tamanho padrão)
-    // spacing: 12.6pt, // 1.5 * 14.4pt (tamanho padrão)
-    leading: 1.145em, // 1.5 * 14.4pt (tamanho padrão)
-    spacing: 1.145em, // 1.5 * 14.4pt (tamanho padrão)
+    leading: eval(estilo.paragrafo.espaçamento.entrelinhas),
+    spacing: eval(estilo.paragrafo.espaçamento.entrelinhas),
     justify: true,
     hanging-indent: 0em,
     first-line-indent: (
-      amount: 1.25cm,
+      amount: eval(estilo.paragrafo.recuo),
       all: true,
     ))
 

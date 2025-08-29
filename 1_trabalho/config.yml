@@ -25,9 +25,9 @@ estilo:
     - Ubutu
   tamanho: 12pt
   paragrafo:
-    recuo: 1cm
-    espacamento:
-      entrelinhas: 1.5
+    recuo: 1.25cm
+    espaçamento:
+      entrelinhas: 0.75em   #equivale  1.5  para trabalhos acadêmicos
       antes: 0pt
       depois: 0pt
   alinhamento: justify
